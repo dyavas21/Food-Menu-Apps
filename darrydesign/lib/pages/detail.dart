@@ -14,6 +14,8 @@ class Detail extends StatelessWidget {
         child: Row(
           children: [
             GestureDetector(
+
+              
               onTap: () {
                 Navigator.pushNamed(context, '/');
               },

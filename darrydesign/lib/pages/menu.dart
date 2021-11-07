@@ -217,7 +217,7 @@ class Menu extends StatelessWidget {
                     ),
                     Column(
                       children: [
-                        Image.asset(
+                        Image.asset( 
                           'assets/arrow_down.png',
                           width: 40,
                         ),
